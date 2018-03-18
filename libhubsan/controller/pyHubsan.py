@@ -1,8 +1,8 @@
 #! /usr/bin/env python3
 # ---------------------------------------------------------------
-# Hubsan X4 H107L - Python head-end for Arduino Hubsan Controller
+# Hubsan X4 H107D - Python head-end for Arduino Hubsan Controller
 # ---------------------------------------------------------------
-# v0.1 - 20141201 - James Hung (jimhung.com)
+# v0.1.1 - 2018-03-20 - Zac Blanco, Zohaib Zahid
 # ---------------------------------------------------------------
 import serial,sys,configparser
 
